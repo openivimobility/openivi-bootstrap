@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/fix-modelines
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name=xinput config
+Comment=

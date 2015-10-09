@@ -1,0 +1,4 @@
+xrandr --newmode 1280x800   83.50  1280 1352 1480 1680  800 803 809 831 -hsync +vsyn
+xrandr --addmode HDMI1 1280x800
+xrandr --output HDMI1 --mode 1280x800
+xinput map-to-output "Chalkboard Electronics HID Touchscreen" HDMI1
