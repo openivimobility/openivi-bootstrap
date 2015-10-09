@@ -1,0 +1,5 @@
+.*.swp
+debian/files
+debian/openivi-bootstrap.debhelper.log
+debian/openivi-bootstrap.substvars
+debian/openivi-bootstrap/
