@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=iceweasel --start-debugger-server 6000
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name=iceweasel
+Comment=
