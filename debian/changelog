@@ -1,0 +1,11 @@
+openivi-bootstrap (0.2.3) stable; urgency=medium
+
+  * Fix extension loading
+
+ -- Phil Wise <phil@advancedtelematic.com>  Wed, 30 Sep 2015 10:33:10 +0200
+
+openivi-bootstrap (0.1) stable; urgency=medium
+
+  * Initial release. 
+
+ -- Phil Wise <phil@advancedtelematic.com>  Thu, 24 Sep 2015 09:02:32 +0200
