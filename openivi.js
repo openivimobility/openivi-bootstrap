@@ -1,7 +1,6 @@
 /* This file is deployed in /usr/lib/iceweasel/browser/defaults/preferences,
    and sets the default configuration */
 
-pref("browser.startup.homepage", "http://localhost/www/");
 /* Get the Geolocation from a static file. This could be fetched dynamically
    using a GPS device and gpsd in the future */
 pref("geo.wifi.uri", "file:///var/location.json");
