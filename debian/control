@@ -7,7 +7,7 @@ Standards-Version: 3.9.6
 
 Package: openivi-bootstrap
 Architecture: all
-Depends: iceweasel, ${misc:Depends}
+Depends: iceweasel, xinput, ${misc:Depends}
 Description: Configure a system to act like openivi
 	Installing this on a blank Debian system will configure it to
 	start a browser on boot and disable the screensaver
