@@ -1,3 +1,9 @@
+openivi-bootstrap (0.4) UNRELEASED; urgency=medium
+
+  * Depend on xinput, rotate screen
+
+ -- Phil Wise <phil@advancedtelematic.com>  Wed, 14 Oct 2015 11:03:53 +0200
+
 openivi-bootstrap (0.3) stable; urgency=medium
 
   * Remove default www page
